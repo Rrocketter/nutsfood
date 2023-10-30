@@ -25,6 +25,7 @@ import nuts from '../assets/nuts.jpeg'
 import nut from '../assets/nut.png'
 import loss from '../assets/loss.png'
 import accuracy from '../assets/accuracy.png'
+import findus2 from '../assets/findus2.png'
 
 
 export default {
@@ -54,5 +55,6 @@ export default {
   nuts,
   nut,
   loss,
-  accuracy
+  accuracy,
+  findus2
 };

@@ -12,7 +12,10 @@ const FindUs = () => (
       </h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">
-          EquiHacks Monmouth Hackathon 2023 Submission
+          Congressional App Challenge 2023 Submission
+        </p>
+        <p className="p__opensans">
+          New Jersey District 6 Frank Pallone Jr
         </p>
         <p
           className="p__cormorant"
@@ -35,7 +38,7 @@ const FindUs = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.findus} alt="finus_img" />
+      <img src={images.findus2} alt="finus_img" />
     </div>
   </div>
 );

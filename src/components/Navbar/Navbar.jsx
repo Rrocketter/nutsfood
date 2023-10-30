@@ -18,7 +18,7 @@ const Navbar = () => {
       </ul>
       <ul className="app__navbar-links">
         <li className="p__opensans">
-          <a href="https://github.com/Rrocketter/nutsinfood">GitHub Link</a>
+          <a href="https://github.com/Rrocketter/nutsfood">GitHub Link</a>
         </li>
       </ul>
       <ul className="app__navbar-links">
