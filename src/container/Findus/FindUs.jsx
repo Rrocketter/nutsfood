@@ -23,8 +23,7 @@ const FindUs = () => (
         >
           Date
         </p>
-        <p className="p__opensans">Friday October 20, 2023 - </p>
-        <p className="p__opensans">Sunday October 22, 2023</p>
+        <p className="p__opensans">Wednesday, November 1, 2023</p>
 
         <p
           className="p__cormorant"
