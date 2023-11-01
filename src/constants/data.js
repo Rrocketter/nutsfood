@@ -2,7 +2,7 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Alomonds',
+    title: 'Almonds',
     price: '',
     tags: '',
   },
